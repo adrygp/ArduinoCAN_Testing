@@ -3,4 +3,4 @@
 
 - arduino_can_test_emmiter.ino: Code for CAN message emmiter.
 - arduino_can_test_receiver.ino: Code for CAN message receiver (another Arduino).
-- You can find the library I used at: https://github.com/Seeed-Studio/CAN_BUS_Shield
+- You can find the library I used at: https://github.com/Seeed-Studio/Seeed_Arduino_CAN/releases/tag/v1.3.0
